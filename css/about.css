@@ -84,7 +84,7 @@ body {
 .about-main-wrapper-item {
 	width: 1280px;
 	height: 450px;
-	background-image: url(./images/about\ backround\ img.png);
+	background-image: url(../image/about\ backround\ img.png);
 	background-repeat: no-repeat;
 	margin: auto;
 }
@@ -123,7 +123,7 @@ body {
 	margin-bottom: 200px;
 }
 .main-wrapper .main-wrapper-item::before {
-	content: url(./images/waiter.png);
+	content: url(../image/waiter.png);
 }
 .main-item {
 	width: 540px;
@@ -179,7 +179,7 @@ body {
 .all-main-little-palagroph::before {
 	width: 445px;
 	height: 475px;
-	content: url(./images/coffee.png);
+	content: url(../image/coffee.png);
 	position: absolute;
 	margin-left: 640px;
 	margin-top: -300px;
@@ -199,7 +199,7 @@ body {
 	list-style: none;
 }
 .bottom-main-wrapper-item-second:nth-child(0) {
-	content: url(./images/Combined\ Shape1.svg);
+	content: url(../image/Combined\ Shape1.svg);
 }
 
 .bottom-main-wrapper {
